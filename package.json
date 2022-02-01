@@ -11,13 +11,8 @@
     "request-ip": "^1.2.3",
     "topo": "^3.0.3"
   },
-  "now": {
-    "files": [
-      "service-account.json",
-      "index.js",
-      "lib"
-    ]
-  },
+  
+  "main": "index.js",
   "scripts": {
     "start": "micro"
   }

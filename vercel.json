@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "NC-seoblog-views",
+    "name": "nc-blog-views",
     "alias": "Naresh-seoblog-views",
     "builds": [{"src": "index.js", "use": "micro"}]
 }
