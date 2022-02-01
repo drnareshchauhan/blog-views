@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "name": "NC-blog-views",
+    "alias": "Naresh-blog-views",
+    "builds": [{"src": "index.js", "use": "now-micro"}]
+}
